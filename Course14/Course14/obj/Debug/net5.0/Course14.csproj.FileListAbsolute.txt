@@ -1,0 +1,16 @@
+D:\Faculta\Course14\Course14\bin\Debug\net5.0\Course14.exe
+D:\Faculta\Course14\Course14\bin\Debug\net5.0\Course14.deps.json
+D:\Faculta\Course14\Course14\bin\Debug\net5.0\Course14.runtimeconfig.json
+D:\Faculta\Course14\Course14\bin\Debug\net5.0\Course14.runtimeconfig.dev.json
+D:\Faculta\Course14\Course14\bin\Debug\net5.0\Course14.dll
+D:\Faculta\Course14\Course14\bin\Debug\net5.0\ref\Course14.dll
+D:\Faculta\Course14\Course14\bin\Debug\net5.0\Course14.pdb
+D:\Faculta\Course14\Course14\obj\Debug\net5.0\Course14.csprojAssemblyReference.cache
+D:\Faculta\Course14\Course14\obj\Debug\net5.0\Course14.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculta\Course14\Course14\obj\Debug\net5.0\Course14.AssemblyInfoInputs.cache
+D:\Faculta\Course14\Course14\obj\Debug\net5.0\Course14.AssemblyInfo.cs
+D:\Faculta\Course14\Course14\obj\Debug\net5.0\Course14.csproj.CoreCompileInputs.cache
+D:\Faculta\Course14\Course14\obj\Debug\net5.0\Course14.dll
+D:\Faculta\Course14\Course14\obj\Debug\net5.0\ref\Course14.dll
+D:\Faculta\Course14\Course14\obj\Debug\net5.0\Course14.pdb
+D:\Faculta\Course14\Course14\obj\Debug\net5.0\Course14.genruntimeconfig.cache
