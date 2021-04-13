@@ -1,0 +1,16 @@
+D:\Faculta\Amdaris\Course18\Course18\bin\Debug\net5.0\Course18.exe
+D:\Faculta\Amdaris\Course18\Course18\bin\Debug\net5.0\Course18.deps.json
+D:\Faculta\Amdaris\Course18\Course18\bin\Debug\net5.0\Course18.runtimeconfig.json
+D:\Faculta\Amdaris\Course18\Course18\bin\Debug\net5.0\Course18.runtimeconfig.dev.json
+D:\Faculta\Amdaris\Course18\Course18\bin\Debug\net5.0\Course18.dll
+D:\Faculta\Amdaris\Course18\Course18\bin\Debug\net5.0\ref\Course18.dll
+D:\Faculta\Amdaris\Course18\Course18\bin\Debug\net5.0\Course18.pdb
+D:\Faculta\Amdaris\Course18\Course18\obj\Debug\net5.0\Course18.csprojAssemblyReference.cache
+D:\Faculta\Amdaris\Course18\Course18\obj\Debug\net5.0\Course18.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculta\Amdaris\Course18\Course18\obj\Debug\net5.0\Course18.AssemblyInfoInputs.cache
+D:\Faculta\Amdaris\Course18\Course18\obj\Debug\net5.0\Course18.AssemblyInfo.cs
+D:\Faculta\Amdaris\Course18\Course18\obj\Debug\net5.0\Course18.csproj.CoreCompileInputs.cache
+D:\Faculta\Amdaris\Course18\Course18\obj\Debug\net5.0\Course18.dll
+D:\Faculta\Amdaris\Course18\Course18\obj\Debug\net5.0\ref\Course18.dll
+D:\Faculta\Amdaris\Course18\Course18\obj\Debug\net5.0\Course18.pdb
+D:\Faculta\Amdaris\Course18\Course18\obj\Debug\net5.0\Course18.genruntimeconfig.cache

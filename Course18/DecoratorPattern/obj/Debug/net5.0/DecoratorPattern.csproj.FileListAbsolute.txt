@@ -1,0 +1,16 @@
+D:\Faculta\Amdaris\Course18\DecoratorPattern\bin\Debug\net5.0\DecoratorPattern.exe
+D:\Faculta\Amdaris\Course18\DecoratorPattern\bin\Debug\net5.0\DecoratorPattern.deps.json
+D:\Faculta\Amdaris\Course18\DecoratorPattern\bin\Debug\net5.0\DecoratorPattern.runtimeconfig.json
+D:\Faculta\Amdaris\Course18\DecoratorPattern\bin\Debug\net5.0\DecoratorPattern.runtimeconfig.dev.json
+D:\Faculta\Amdaris\Course18\DecoratorPattern\bin\Debug\net5.0\DecoratorPattern.dll
+D:\Faculta\Amdaris\Course18\DecoratorPattern\bin\Debug\net5.0\ref\DecoratorPattern.dll
+D:\Faculta\Amdaris\Course18\DecoratorPattern\bin\Debug\net5.0\DecoratorPattern.pdb
+D:\Faculta\Amdaris\Course18\DecoratorPattern\obj\Debug\net5.0\DecoratorPattern.csprojAssemblyReference.cache
+D:\Faculta\Amdaris\Course18\DecoratorPattern\obj\Debug\net5.0\DecoratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculta\Amdaris\Course18\DecoratorPattern\obj\Debug\net5.0\DecoratorPattern.AssemblyInfoInputs.cache
+D:\Faculta\Amdaris\Course18\DecoratorPattern\obj\Debug\net5.0\DecoratorPattern.AssemblyInfo.cs
+D:\Faculta\Amdaris\Course18\DecoratorPattern\obj\Debug\net5.0\DecoratorPattern.csproj.CoreCompileInputs.cache
+D:\Faculta\Amdaris\Course18\DecoratorPattern\obj\Debug\net5.0\DecoratorPattern.dll
+D:\Faculta\Amdaris\Course18\DecoratorPattern\obj\Debug\net5.0\ref\DecoratorPattern.dll
+D:\Faculta\Amdaris\Course18\DecoratorPattern\obj\Debug\net5.0\DecoratorPattern.pdb
+D:\Faculta\Amdaris\Course18\DecoratorPattern\obj\Debug\net5.0\DecoratorPattern.genruntimeconfig.cache

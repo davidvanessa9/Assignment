@@ -1,0 +1,16 @@
+D:\Faculta\Amdaris\Course18\FacadePattern\bin\Debug\net5.0\FacadePattern.exe
+D:\Faculta\Amdaris\Course18\FacadePattern\bin\Debug\net5.0\FacadePattern.deps.json
+D:\Faculta\Amdaris\Course18\FacadePattern\bin\Debug\net5.0\FacadePattern.runtimeconfig.json
+D:\Faculta\Amdaris\Course18\FacadePattern\bin\Debug\net5.0\FacadePattern.runtimeconfig.dev.json
+D:\Faculta\Amdaris\Course18\FacadePattern\bin\Debug\net5.0\FacadePattern.dll
+D:\Faculta\Amdaris\Course18\FacadePattern\bin\Debug\net5.0\ref\FacadePattern.dll
+D:\Faculta\Amdaris\Course18\FacadePattern\bin\Debug\net5.0\FacadePattern.pdb
+D:\Faculta\Amdaris\Course18\FacadePattern\obj\Debug\net5.0\FacadePattern.csprojAssemblyReference.cache
+D:\Faculta\Amdaris\Course18\FacadePattern\obj\Debug\net5.0\FacadePattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculta\Amdaris\Course18\FacadePattern\obj\Debug\net5.0\FacadePattern.AssemblyInfoInputs.cache
+D:\Faculta\Amdaris\Course18\FacadePattern\obj\Debug\net5.0\FacadePattern.AssemblyInfo.cs
+D:\Faculta\Amdaris\Course18\FacadePattern\obj\Debug\net5.0\FacadePattern.csproj.CoreCompileInputs.cache
+D:\Faculta\Amdaris\Course18\FacadePattern\obj\Debug\net5.0\FacadePattern.dll
+D:\Faculta\Amdaris\Course18\FacadePattern\obj\Debug\net5.0\ref\FacadePattern.dll
+D:\Faculta\Amdaris\Course18\FacadePattern\obj\Debug\net5.0\FacadePattern.pdb
+D:\Faculta\Amdaris\Course18\FacadePattern\obj\Debug\net5.0\FacadePattern.genruntimeconfig.cache
