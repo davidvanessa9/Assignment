@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TfxBNm1fMT6mBLXynYVj/HBGbIpaTZweEg3182mPXLzV6hHp9NjXS/ODrtLPEP6FEFY2um0smCe+Cwe1sNbXmw==",
+  "dgSpecHash": "XqsXPvSJA8k/SckAPYHipG85TthWgbunXO/mrT0vqDP5nTOlQaU2Ddi1lea9JdmixEqM3OGtF7EHqqHkfYMLEA==",
   "success": true,
-  "projectFilePath": "D:\\Utilizator-nu sterge\\Desktop\\BehavioralPatterns\\VisitorPattern\\VisitorPattern.csproj",
+  "projectFilePath": "D:\\Assignment\\BehavioralPatterns\\VisitorPattern\\VisitorPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

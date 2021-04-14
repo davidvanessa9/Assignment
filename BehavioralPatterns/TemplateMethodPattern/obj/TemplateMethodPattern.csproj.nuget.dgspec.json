@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Utilizator-nu sterge\\Desktop\\BehavioralPatterns\\TemplateMethodPattern\\TemplateMethodPattern.csproj": {}
+    "D:\\Assignment\\BehavioralPatterns\\TemplateMethodPattern\\TemplateMethodPattern.csproj": {}
   },
   "projects": {
-    "D:\\Utilizator-nu sterge\\Desktop\\BehavioralPatterns\\TemplateMethodPattern\\TemplateMethodPattern.csproj": {
+    "D:\\Assignment\\BehavioralPatterns\\TemplateMethodPattern\\TemplateMethodPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Utilizator-nu sterge\\Desktop\\BehavioralPatterns\\TemplateMethodPattern\\TemplateMethodPattern.csproj",
+        "projectUniqueName": "D:\\Assignment\\BehavioralPatterns\\TemplateMethodPattern\\TemplateMethodPattern.csproj",
         "projectName": "TemplateMethodPattern",
-        "projectPath": "D:\\Utilizator-nu sterge\\Desktop\\BehavioralPatterns\\TemplateMethodPattern\\TemplateMethodPattern.csproj",
+        "projectPath": "D:\\Assignment\\BehavioralPatterns\\TemplateMethodPattern\\TemplateMethodPattern.csproj",
         "packagesPath": "C:\\Users\\Utilizator\\.nuget\\packages\\",
-        "outputPath": "D:\\Utilizator-nu sterge\\Desktop\\BehavioralPatterns\\TemplateMethodPattern\\obj\\",
+        "outputPath": "D:\\Assignment\\BehavioralPatterns\\TemplateMethodPattern\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

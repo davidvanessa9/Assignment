@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+WN7SKNhRy8a8eqkepKdTf+fGlf0YTTlVd42iOeCR37udehD+qctN89h2Nd911s5wtl8nJgP3RceyeXcroo/Tw==",
+  "dgSpecHash": "0GQ4Se5PQgBIMD5EgnU+K5np0ngZN20YLoBffg4yZS3ririhWctYY6JR3rHGptadL79VnXPK9bnoeWxYuFjdAw==",
   "success": true,
-  "projectFilePath": "D:\\Utilizator-nu sterge\\Desktop\\BehavioralPatterns\\ObserverPattern\\ObserverPattern.csproj",
+  "projectFilePath": "D:\\Assignment\\BehavioralPatterns\\ObserverPattern\\ObserverPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Utilizator-nu sterge\\Desktop\\BehavioralPatterns\\StrategyPattern\\StrategyPattern.csproj": {}
+    "D:\\Assignment\\BehavioralPatterns\\StrategyPattern\\StrategyPattern.csproj": {}
   },
   "projects": {
-    "D:\\Utilizator-nu sterge\\Desktop\\BehavioralPatterns\\StrategyPattern\\StrategyPattern.csproj": {
+    "D:\\Assignment\\BehavioralPatterns\\StrategyPattern\\StrategyPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Utilizator-nu sterge\\Desktop\\BehavioralPatterns\\StrategyPattern\\StrategyPattern.csproj",
+        "projectUniqueName": "D:\\Assignment\\BehavioralPatterns\\StrategyPattern\\StrategyPattern.csproj",
         "projectName": "StrategyPattern",
-        "projectPath": "D:\\Utilizator-nu sterge\\Desktop\\BehavioralPatterns\\StrategyPattern\\StrategyPattern.csproj",
+        "projectPath": "D:\\Assignment\\BehavioralPatterns\\StrategyPattern\\StrategyPattern.csproj",
         "packagesPath": "C:\\Users\\Utilizator\\.nuget\\packages\\",
-        "outputPath": "D:\\Utilizator-nu sterge\\Desktop\\BehavioralPatterns\\StrategyPattern\\obj\\",
+        "outputPath": "D:\\Assignment\\BehavioralPatterns\\StrategyPattern\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

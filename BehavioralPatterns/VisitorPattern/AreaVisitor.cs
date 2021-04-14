@@ -18,6 +18,7 @@ namespace VisitorPattern
                 var engineer = new Engineer();
                 this.AddSubscriber(engineer);
                 this.Publish(engineer, new(shape,area));
+                
                
             } 
             else if (shape is Circle c)

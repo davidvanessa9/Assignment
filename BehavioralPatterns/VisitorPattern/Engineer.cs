@@ -11,9 +11,29 @@ namespace VisitorPattern
         
         public void Notify(Tuple<Shape, double> item)
         {
+
+            var (x, y) = item;
+           
             Shape shape = item.Item1;
             double area = item.Item2;
 
+            string result = x switch
+            {
+                Square s when y < 0 => "Impossible area",
+                Circle c when y < 0 => "Impossible area",
+                Rectangle r when y < 0 => "Impossible area",
+
+                Square s when y > 20 => $"Area of square with length {s.Length} is too big",
+                Circle c when y > 30 => $"Area of circle with radius {c.Radius} is too big",
+                Rectangle r when y > 15 => $"Area of rectangle with length {r.Length} and width {r.Width} is too big",
+                _=> "Seems right"
+
+
+            };
+
+            Console.WriteLine(result);
+         
+            /*
             switch (shape)
             {
                 case Square s when area < 0:
@@ -39,6 +59,7 @@ namespace VisitorPattern
                     break;
 
             }
+            */
 
         }
     }

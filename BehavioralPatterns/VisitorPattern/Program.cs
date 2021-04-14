@@ -18,7 +18,7 @@ namespace VisitorPattern
                 new Square(4),
             };
 
-            // IVisitor visitor = new BlackboardDrawerVisitor();
+            //IVisitor visitor = new BlackboardDrawerVisitor();
             IVisitor visitor = new PaperDrawerVisitor(30);
 
             try

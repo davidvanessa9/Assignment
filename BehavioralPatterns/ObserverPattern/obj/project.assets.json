@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Utilizator-nu sterge\\Desktop\\BehavioralPatterns\\ObserverPattern\\ObserverPattern.csproj",
+      "projectUniqueName": "D:\\Assignment\\BehavioralPatterns\\ObserverPattern\\ObserverPattern.csproj",
       "projectName": "ObserverPattern",
-      "projectPath": "D:\\Utilizator-nu sterge\\Desktop\\BehavioralPatterns\\ObserverPattern\\ObserverPattern.csproj",
+      "projectPath": "D:\\Assignment\\BehavioralPatterns\\ObserverPattern\\ObserverPattern.csproj",
       "packagesPath": "C:\\Users\\Utilizator\\.nuget\\packages\\",
-      "outputPath": "D:\\Utilizator-nu sterge\\Desktop\\BehavioralPatterns\\ObserverPattern\\obj\\",
+      "outputPath": "D:\\Assignment\\BehavioralPatterns\\ObserverPattern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

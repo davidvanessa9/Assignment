@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Utilizator-nu sterge\\Desktop\\BehavioralPatterns\\VisitorPattern\\VisitorPattern.csproj",
+      "projectUniqueName": "D:\\Assignment\\BehavioralPatterns\\VisitorPattern\\VisitorPattern.csproj",
       "projectName": "VisitorPattern",
-      "projectPath": "D:\\Utilizator-nu sterge\\Desktop\\BehavioralPatterns\\VisitorPattern\\VisitorPattern.csproj",
+      "projectPath": "D:\\Assignment\\BehavioralPatterns\\VisitorPattern\\VisitorPattern.csproj",
       "packagesPath": "C:\\Users\\Utilizator\\.nuget\\packages\\",
-      "outputPath": "D:\\Utilizator-nu sterge\\Desktop\\BehavioralPatterns\\VisitorPattern\\obj\\",
+      "outputPath": "D:\\Assignment\\BehavioralPatterns\\VisitorPattern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

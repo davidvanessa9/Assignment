@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1gH8gQW1m7+iVE3aFmUtvqvkLvKB1UwiIkJa8gQRSsG52duSsW5nYAMowPZcZWIOMhtYspeNX8lZ/m8QXjSgrw==",
+  "dgSpecHash": "IK8GhemLKRwsejznxvV9mK2lAsZvGFpLijKZb8FiAldqCnL9v8SV5pIlrdflhA1nKzCfwzKohmYUpJxkuvQtWA==",
   "success": true,
-  "projectFilePath": "D:\\Utilizator-nu sterge\\Desktop\\BehavioralPatterns\\TemplateMethodPattern\\TemplateMethodPattern.csproj",
+  "projectFilePath": "D:\\Assignment\\BehavioralPatterns\\TemplateMethodPattern\\TemplateMethodPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
